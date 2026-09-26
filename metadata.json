@@ -1,0 +1,6 @@
+{
+  "name": "糖友智护 - AI虚拟护士与糖尿病科研随访管理系统",
+  "description": "基于上海奉贤中医医院课题研发的AI虚拟糖尿病护士（糖愈智能体小程序）与内分泌医护科研随访管理系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
